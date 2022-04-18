@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#div1{
+    background-color: rgb(138, 199, 199);
+    text-align: center;
+    height: 22em;
+    padding-top: 4em;
+
+}
+.book {
+    display: flex;
+    justify-content: left;
+    gap: 10rem;
+    
+    
+
+
+}
+#div1 h1{
+    color: antiquewhite;
+    font-size: 3em;
+    
+}
+#div1 h3{
+    color: antiquewhite;
+    font-size:2em ;
+    margin-top: 2em;
+
+}
+#div2{
+    text-align: center;
+    margin-top: 2em;
+}
+#div2 h1{
+    color: rgb(138, 199, 199);
+    font: bold;
+}
+#div2 h2{
+    color: rgb(138, 199, 199);
+}
+#div3{
+    background-color:rgb(138, 199, 199) ;
+    text-align: center;
+    height: 10em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+#div3 h1{
+    color:rgb(216, 242, 242) ;
+}
+#div4{
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}#div4 h1{
+    color: rgb(169, 211, 211);
+}
+#div4 p{
+    color:rgb(169, 211, 211);
+    font-size: 1.5em;
+}
+#submit_button{
+    background-color: rgb(97, 186, 186);
+    color: antiquewhite;
+    width: 5em;
+    border: none;
+    border-radius: 5px;
+    height: 2rem;
+
+} 
+.split {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+#div5{
+    background-color:rgb(138, 199, 199);
+    text-align:center;
+    padding-top: 1em;
+    padding-bottom:2em;
+}
